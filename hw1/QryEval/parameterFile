@@ -1,0 +1,4 @@
+indexPath=index
+retrievalAlgorithm=RankedBoolean
+queryFilePath=q1.txt
+trecEvalOutputPath=HW1-queries-UB.teIn
